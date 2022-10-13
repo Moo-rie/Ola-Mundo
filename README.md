@@ -1,3 +1,4 @@
 # Olá, Mundo
  Primeiro repositório do curso de Git e Github
- Livrando-se da maldicao
+ 
+ Repositório criado para se livrar da maldição
